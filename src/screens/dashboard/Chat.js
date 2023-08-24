@@ -13,7 +13,6 @@ import { useToast } from 'react-native-toast-notifications';
 import { useNavigation } from '@react-navigation/native';
 import LoadingFullScreen from '../../components/shared/Loader/LoadingFullScreen';
 import Search from '../../components/shared/Model/Search';
-import NoNetwokData from '../../components/shared/NoData/NoNetwokData';
 import SegmentedControlTab from 'react-native-segmented-control-tab';
 import Icon from 'react-native-vector-icons/MaterialIcons';
 import NoChatData from '../../components/shared/NoData/NoChatData';
